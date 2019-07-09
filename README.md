@@ -15,4 +15,4 @@ Developed a Flask API that utilized the previous analysis to return JSON lists o
 
 ## Visualizations:
 
-![prec-hawaii](prec_hawaii.png)
+![temp_frequency_hawaii](temp_frequency_hawaii.png)
