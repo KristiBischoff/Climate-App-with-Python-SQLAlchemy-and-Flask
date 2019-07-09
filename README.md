@@ -12,3 +12,7 @@ Python/Pandas/Matplotlib and SQLAlchemy ORM queries were used to conduct climate
 
 ### Climate App
 Developed a Flask API that utilized the previous analysis to return JSON lists of the data stored from the queries.
+
+## Visualizations:
+
+![prec-hawaii](prec_hawaii.png)
