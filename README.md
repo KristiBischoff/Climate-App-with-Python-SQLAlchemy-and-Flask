@@ -17,4 +17,4 @@ Developed a Flask API that utilized the previous analysis to return JSON lists o
 
 ![prec_hawaii](prec_hawaii.png)
 
-![temp_frequency_hawaii2](temp_frequency_hawaii2.png)
+![temp_frequency_hawaii3](temp_frequency_hawaii3.png)
